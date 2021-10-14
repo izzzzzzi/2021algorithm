@@ -76,7 +76,7 @@ void main()
     int i;
  
     graph_init();
- 
+
     insert_edge(1, 2);
     insert_edge(1, 8);
     insert_edge(1, 3);
